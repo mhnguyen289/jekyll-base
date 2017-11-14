@@ -3,6 +3,7 @@ layout: post
 title:  "DNS challenges"
 date:   2017-11-13
 categories: jekyll update
+---
 
 These are the two common DNS challenges most non-technical will face:
 

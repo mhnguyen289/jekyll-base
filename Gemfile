@@ -1,4 +1,8 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source :rubygems
 
-gem "jekyll"
+gem 'serve'
+gem 'uglifier'
+gem 'rake'
+gem 'jekyll'
+gem 'rdiscount'
+gem 'jekyll-redirect-from'

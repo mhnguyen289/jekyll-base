@@ -10,3 +10,10 @@ github_username:  mhnguyen289
 
 # Build settings
 markdown: kramdown
+gems:
+ - jekyll-redirect-from
+
+# redirect_from:
+# title: Redirect link
+# - [/netlify/anything]: https://minhs-netlify-sample-27331.netlify.com/netlify/anything
+# - [/netlify/about/]: https://minhs-netlify-sample-27331.netlify.com/about/
