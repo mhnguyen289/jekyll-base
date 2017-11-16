@@ -4,13 +4,14 @@ title:  "My top 5 favorite and least favorite"
 date:   2017-11-13
 categories: jekyll update
 ---
+
 Favorite:
 - Help train and onboard new support teammates.
 - Debug a customer's build using a programming language and framework that you've never seen before.
 - Work with prospective customers to explain our service and the pricing model
 - Work with the development team to help design a new feature based on feedback from customers.
 - Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have.
-- Jekyll also offers powerful support for code snippets.
+
 
 Least Favorite:
 - Respond to Netlify fans on Twitter
